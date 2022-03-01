@@ -1,6 +1,6 @@
 # custom-midi-player
 
-A toy program I wrote when I was interested in sound manipulation and MIDI files. It allows the playback of MIDI files using a custom audio file. The program will tune the utilize the input MP4 file as a soundfont for the playback of the MIDI file.
+A toy program using sound manipulation and MIDI files. It allows the playback of MIDI files using a custom audio file. The program will tune the utilize the input MP4 file as a soundfont for the playback of the MIDI file.
 
 ## Installation
 
